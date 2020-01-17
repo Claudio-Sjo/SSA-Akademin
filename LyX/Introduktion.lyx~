@@ -1,0 +1,1994 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Part*
+Introduktion 
+\end_layout
+
+\begin_layout Standard
+Amatörradio Amatörradio är en teknisk hobby med inriktning på kommunikation
+ och experiment med radioanläggningar samt radiovågors utbredning.
+ Det är en verksamhet som utövas över hela världen av licensierade radioamatörer
+, även kallade sändaramatörer.
+ 
+\end_layout
+
+\begin_layout Standard
+Syftet med amatörradio är att främja personlig utveckling och internationell
+ förståelse samt teknisk färdighet och erfarenhetsutbyte inom området.
+ Amatörradio kan därtill vara en tillgång då samhällets normala resurser
+ för radiokommunikation behöver förstärkas.
+ 
+\end_layout
+
+\begin_layout Section*
+En hobby med krav 
+\end_layout
+
+\begin_layout Standard
+För att använda en radiosändare, och i vissa fall inneha, i ett land, krävs
+ tillstånd (licens) från dess teleadministration.
+ För ett amatörradiotillstånd föreskrivs i det internationella radioreglementet
+ [22] bland annat handhavandemässiga och tekniska kvalifikationer hos varje
+ person som önskar använda en amatörradiostation.
+ De nationella teleadministrationerna tillser detta genom kompetensprov.
+ För att få sända med amatörradiosändare måste man ha amatörradiocertifikat.
+ 
+\end_layout
+
+\begin_layout Standard
+CEPT är ett samarbetsorgan mellan europeiska länders teleadministrationer
+ (myndigheter).
+ En av dem är svenska Post- och telestyrelsen (PTS).
+ 
+\end_layout
+
+\begin_layout Standard
+Dessa administrationer har antagit rekommendationer om sinsemellan harmoniserade
+ krav på radioamatörers kompetens.
+ 
+\end_layout
+
+\begin_layout Standard
+Sverige har antagit CEPT-rekommendationen Harmonised Amateur Radio Examination
+ Certificate, Vilnius 2004, version 5 februari 2016, T/R 61-02 [16].
+ Vid genomförandet av kompetensprov ska de i den rekommendationen angivna
+ kraven särskilt beaktas.
+ 
+\end_layout
+
+\begin_layout Standard
+För den som godkänts i ett sådant prov utfärdas ett harmoniserat amatörradiocert
+ifikat (HAREC).
+ 
+\end_layout
+
+\begin_layout Standard
+Det svenska certifikatet bygger på CEPT HAREC krav [16], med anpassning
+ till svensk frekvensplan i Bilaga G.
+ 
+\end_layout
+
+\begin_layout Section*
+Utbildning 
+\end_layout
+
+\begin_layout Standard
+Man kan antingen söka sig till någon av de klubbar som har kurs eller skaffa
+ SSA:s utbildningspaket och studera på egen hand.
+ Post- och telestyrelsen har dessutom övningsprov online som man kan testa
+ sina kunskaper på, något som varmt rekommenderas för alla studerande oavsett
+ studieform.
+ 
+\end_layout
+
+\begin_layout Standard
+Amatörradioklubbarna bedriver huvuddelen av utbildningen med amatörradiocertifik
+at som mål.
+ Också vissa skolor, militära förband, FRO-förbund med flera har amatörradio
+ på programmet.
+ Se SSA:s webbplats (www.ssa.se) för aktuella kurstillfällen.
+ 
+\end_layout
+
+\begin_layout Standard
+När man är mogen för att avlägga certifikatprov skriver man för någon av
+ de provförrättare som finns.
+ De klubbar som har utbildning brukar planera prov med den grupp elever
+ de har.
+ 
+\end_layout
+
+\begin_layout Standard
+Efter avlagt och godkänt prov kan man sedan ansöka om anropssignal och certifika
+t, något som SSA sköter enligt delegation från Post- och telestyrelsen.
+ 
+\end_layout
+
+\begin_layout Standard
+Till tillståndet knyts en internationellt unik anropssignal.
+ Man har möjlighet att föreslå en anropssignal, men i brist på förslag tas
+ en ledig anropssignal ur serien.
+ 
+\end_layout
+
+\begin_layout Section*
+Föreningen Sveriges Sändareamatörer – SSA 
+\end_layout
+
+\begin_layout Standard
+SSA är en ideell förening för personer med intresse för amatörradio.
+ Verksamheten är religiöst och politiskt obunden.
+ Ett av syftena är att bland medlemmarna verka för ökade tekniska kunskaper
+ och god radiotrafikkultur för att därigenom skapa en kår av kunniga radioamatör
+er.
+ SSA representerar Sverige som nationell förening i International Amateur
+ Radio Union (IARU), Region 1.
+ 
+\end_layout
+
+\begin_layout Section*
+Internationell samverkan 
+\end_layout
+
+\begin_layout Standard
+De nationella föreningarna inom IARU samarbetar över nationsgränserna.
+ Ett exempel är när DARC (Deutscher Amateur-Radio-Club e.V.) för ett antal
+ år sedan ställde sina Ausbildungsunterlagen [17] till SSA:s förfogande
+ som källmaterial till föregångaren till denna bok.
+ 
+\end_layout
+
+\begin_layout Section*
+Denna bok 
+\end_layout
+
+\begin_layout Standard
+Denna bok omfattar hela teorin för CEPT HAREC och PTS krav.
+ Den ingår i det utbildningspaket som kan köpas från SSA.
+ 
+\end_layout
+
+\begin_layout Standard
+Innehållet är delat i två ämnesgrupper: grundläggande radioteknik samt regler
+ och trafikmetoder.
+ Det finns även inlärningsanvisningar för morsesignalering för den som vill
+ lära sig telegrafi.
+ 
+\end_layout
+
+\begin_layout Standard
+I bilagorna finns bland annat grundläggande matematik och frekvensplaner
+ för amatörradiotrafik.
+ 
+\end_layout
+
+\begin_layout Standard
+Rekrytering av handledare för terminslånga kurser är en nyckelfråga för
+ kursarrangören, liksom målinriktade, anpassade läromedel.
+ 
+\end_layout
+
+\begin_layout Standard
+Tanken med denna bok är att leverera ett material som kan vara grunden till
+ denna utbildning samt även för viss fördjupning och förståelse för de begrepp
+ som man vanligtvis stöter på inom hobbyn.
+ 
+\end_layout
+
+\begin_layout Section*
+Förord till andra upplagan 
+\end_layout
+
+\begin_layout Standard
+Boken bygger till mycket stor del på det arbete som till första upplagan
+ utfördes av Lennart Wiberg, med signal SM7KHF, med flera.
+ 
+\end_layout
+
+\begin_layout Standard
+Med tiden har uppstått ett behov av att bredda det existerande utbildningsmateri
+alet och att anpassa det till ett modernare sätt att utbilda, inte minst
+ för att kunna utnyttja moderna webbaserade utbildningssystem.
+ 
+\end_layout
+
+\begin_layout Standard
+En viktig aspekt har varit att materialet ska täcka hela CEPT HAREC, som
+ uppdaterats över åren, och vara spårbart till dessa krav.
+ 
+\end_layout
+
+\begin_layout Standard
+Till denna andra upplaga har allt tidigare material granskats och uppdaterats.
+ Nya kapitel har lagts till, bland annat om elektromagnetiska fält, digitala
+ trafiksätt och digital signalbehandling.
+ Avsnitten om elsäkerhet och nödtrafik har omarbetats och samtliga referenser
+ till lagar och föreskrifter är i skrivande stund aktuella.
+ 
+\end_layout
+
+\begin_layout Standard
+Den nu föreliggande andra upplagan finns tillgänglig i digitalt format.
+ Detta underlättar inte bara för läsaren att söka efter specifik information,
+ men utgör också en grund för kommande webbaserad utbildning.
+ 
+\end_layout
+
+\begin_layout Standard
+TACK! 
+\end_layout
+
+\begin_layout Standard
+Ett stort tack till alla de som på olika sätt bidragit till att förverkliga
+ boken, tillvaratagit alla delar från den tidigare upplagan, uppdaterat
+ den, skrivit nytt material, gjort om layout, typsatt och arbetat med innehållet
+ i olika former.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Författarna
+\end_layout
+
+\begin_layout Part
+Inledning: VAD, HUR, VAR? 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+VAD behöver en radioamatör kunna? 
+\end_layout
+
+\begin_layout Standard
+CEPT är ett samarbetsorgan mellan europeiska länders teleadministrationer
+ (myndigheter).
+ En av dem är svenska Post- och telestyrelsen (PTS).
+ 
+\end_layout
+
+\begin_layout Standard
+Dessa administrationer har antagit rekommendationer om sinsemellan harmoniserade
+ krav på radioamatörers kompetens.
+ 
+\end_layout
+
+\begin_layout Standard
+Sverige har antagit CEPT-rekommendationen T/R 61-02 [16].
+ Vid genomförandet av kompetensprov ska de i rekommendationen angivna kraven
+ särskilt beaktas.
+ 
+\end_layout
+
+\begin_layout Standard
+För den som godkänts i ett sådant prov utfärdas ett harmoniserat amatörradiocert
+ifikat (HAREC).
+ Rekommendationen anger kompetensnivån HAREC.
+\end_layout
+
+\begin_layout Standard
+Det svenska certifikatet bygger på CEPT HAREC krav [16], med anpassning
+ till svensk bandplan i bilaga G.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+HUR blir man radioamatör?
+\end_layout
+
+\begin_layout Standard
+För att få sända med amatörradiosändare måste man ha amatörradiocertifikat.
+ Man kan antingen söka sig till någon av de klubbar som har kurs, eller
+ skaffa SSA:s utbildningspaket och studera på egen hand.
+ Post- och telestyrelsen har övningsprov online som man kan testa sina kunskaper
+ på.
+ När man är mogen för att avlägga certifikatprov så skriver man för någon
+ av de provförrättare som finns.
+ De klubbar som har utbildning brukar planera prov med den grupp elever
+ de har.
+ 
+\end_layout
+
+\begin_layout Standard
+Efter avlagt och godkänt prov kan man sedan ansöka om signal och certifikat,
+ något som SSA sköter enligt delegation från Post- och telestyrelsen.
+ 
+\end_layout
+
+\begin_layout Standard
+Till tillståndet knyts en internationellt unik anropssignal.
+ Man har möjlighet att föreslå en anropssignal, men i brist på förslag så
+ tas en ledig anropssigna ur serien.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+VAR hålls det certifikatskurser? 
+\end_layout
+
+\begin_layout Standard
+Vissa amatörradioklubbar, militära förband, FROförbund och andra sammanslutninga
+r håller certifikatskurser.
+ Det går också att studera på egen hand.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+VILKA läromedel behöver man? 
+\end_layout
+
+\begin_layout Standard
+Denna bok omfattar hela teorin för CEPT HAREC och PTS krav.
+ Den ingår i det utbildningspaket som kan köpas från SSA.
+\end_layout
+
+\begin_layout Section
+Ellära 
+\end_layout
+
+\begin_layout Subsection
+Elektriska grundbegrepp 
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.1 
+\end_layout
+
+\begin_layout Standard
+Elektrisk laddning, spänning och ström hänger samman med hur materian är
+ uppbyggd.
+ Den förmåga ett material har att leda laddningar, det vill säga ström,
+ kallas konduktivitet.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Grundämnen 
+\end_layout
+
+\begin_layout Standard
+Det finns många former av materia.
+ Ofta är en form av materia sammansatt av andra former med enklare uppbyggnad.
+ Sammansatt materia kan sönderdelas på kemisk väg, men däremot inte de enklaste
+ formerna.
+ All materia är uppbyggd av atomer.
+ De enklaste materieformerna, som kallas grundämnen, innehåller endast ett
+ slags atomer.
+ Över 100 grundämnen är kända.
+ Vart och ett av grundämnena har sin speciella atomuppbyggnad och därmed
+ en materialstruktur, som skiljer sig från varje annat grundämne.
+ Tre fjärdedelar av alla grundämnen är metaller (elektriska ledare) medan
+ de flesta övriga är ickemetaller (isolatorer).
+ Det finns även en liten mellangrupp som kallas för halvledare.
+\end_layout
+
+\begin_layout Subsubsection
+Atomernas uppbyggnad 
+\end_layout
+
+\begin_layout Standard
+Länge ansågs atomerna vara de minsta beståndsdelarna i materian.
+ Men omkring förra sekelskiftet upptäcktes att atomerna i sin tur består
+ av ännu mindre beståndsdelar, så kallade elementarpartiklar såsom protoner,
+ neutroner, elektroner med flera.
+ Det gemensamma namnet för alla dessa partiklar är nukleoner.
+ En atom består dels av en kärna som är sammansatt av protoner och neutroner,
+ dels av elektroner, som kretsar omkring kärnan.
+ 
+\end_layout
+
+\begin_layout Itemize
+Protonerna är positivt (+) laddade.
+ 
+\end_layout
+
+\begin_layout Itemize
+Neutronerna är neutrala, ej laddade.
+ 
+\end_layout
+
+\begin_layout Itemize
+Elektronerna är negativt (–) laddade.
+ 
+\end_layout
+
+\begin_layout Standard
+Elektronerna kretsar i banor omkring atomkärnorna, liksom planeterna kretsar
+ i banor omkring sina solar, vilket illustreras i bild 1.1.
+ Banor med samma avstånd till atomkärnan är på samma energinivå och sägs
+ bilda ett elektronskal.
+ Det kan finnas flera elektronskal.
+ Ju fler elektroner som finns i ett elektronskal, desto starkare är elektronerna
+ i skalet bundna till atomen.
+ Det yttersta skalet kan emellertid aldrig innehålla fler än 8 elektroner.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename bild_2_1-01.png
+	scale 50
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Atomernas uppbyggnad
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Elektronerna i det yttersta skalet kallas för valenselektroner, vilka används
+ även av angränsande atomer vid den kemiska bindningen till atomstrukturer,
+ molekyler och ämnen.
+ För bindningen behövs ett visst antal valenselektroner.
+ De valenselektroner som ej behövs för bindningen kan röra sig fritt genom
+ materia/strukturen.
+ De kallas fria elektroner och är vad vi kallar elektrisk ström.
+ Valenselektronerna är alltså inte bara av betydelse för materialets kemiska
+ struktur utan också för dess elektriska egenskaper.
+ Atomernas massa och volym är ytterst liten.
+ Tag som exempel en kub av koppar med volymen 1 cm3 och vikten 8,9 gram.
+ Den består av ca 8,5·1022 kopparatomer, dvs.
+ 85 000 000 000 000 000 000 000 stycken.
+ Fenomenet metallbindning gör att antalet fria elektroner i kuben är ungefär
+ lika med antalet atomer i den.
+ Varje elementarpartikel har en massa och en atoms totala massa är summan
+ av elementarpartiklarnas massor.
+ Den enklaste atomen är väteatomen med en proton och en elektron.
+ Väteatomens totala massa har kunnat beräknas till 1,66 · 10−24 gram.
+ Nästan hela massan i atomen är samlad till kärnans protoner och neutroner.
+ Var och en av dem har en massa som är ungefär 2000 gånger större än massan
+ i en elektron.
+\end_layout
+
+\begin_layout Subsubsection
+Elektrisk laddning och kraftverkan 
+\end_layout
+
+\begin_layout Standard
+Enligt sägnen upptäckte Thales från Milteus redan för 2500 år sedan, att
+ en bit bärnsten drog till sig små grässtrån, sedan stenen gnidits mot en
+ bit ylle.
+ Det grekiska ordet för bärnsten är ELEKTRON och de krafter som uppstod
+ kom att kallas ”elektriska”.
+ Av den elektriska spänningen mellan kroppar med olika laddning, verkar
+ krafter mellan dem och deras omgivning.
+ Krafterna kallas för elektriska fält och är det som gör att elektriskt
+ laddade kroppar kan komma i rörelse.
+ Ett exempel får man varje gång man kammar sig med en kam av isolerande
+ material.
+ Då kommer 5 håret att dras mot kammen därför att håret och kammen har fått
+ olika slags elektriska laddningar.
+ Samtidigt har hårstråna sinsemellan samma slags laddning och stöter bort
+ varandra – håret ”reser sig”.
+ Lika laddningar stöter bort varandra – olika laddningar drar varandra till
+ sig.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Konduktivitet – ledare, halvledare och isolator
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.1.1 
+\end_layout
+
+\begin_layout Standard
+En elektrisk ström sägs flyta, när de fria laddningsbärarna i ett material
+ – en strömledare – fås att röra sig samtidigt i samma riktning.
+ Hur många som rör sig beror på strömledarens egenskaper och spänningen
+ mellan ledarens ändar.
+ Alla material har någon grad av elektrisk ledningsförmåga som beror på
+ materialets atomstruktur, dimensioner och temperatur.
+ Vissa material (t.ex.
+ metaller, kol, halvledare) leder elektrisk ström bättre än andra (t.ex.
+ glas, gummi, plast).
+ Mängden av fria laddningsbärare i materialet begränsar hur stor strömmen
+ kan bli.
+ 
+\end_layout
+
+\begin_layout Paragraph
+1.1.4.1 Ledare 
+\end_layout
+
+\begin_layout Standard
+Metaller har god elektrisk ledningsförmåga och kallas ledare.
+ Bäst ledande är de metaller, vars atomer har det minsta antalet valenselektrone
+r i det yttersta elektronskalet.
+ Koppar-, silver- och guldatomerna har en enda valenselektron och därmed
+ mycket god ledningsförmåga.
+ Järn, zink och magnesium har två valenselektroner och därmed något sämre
+ ledningsförmåga.
+ Ännu sämre ledare är de så kallade halvledarna med 3 till 5 valenselektroner.
+ 
+\end_layout
+
+\begin_layout Paragraph
+1.1.4.2 Isolatorer 
+\end_layout
+
+\begin_layout Standard
+Glas, plast, porslin och vissa mineraler har mycket dålig ledningsförmåga
+ och kallas isolatorer.
+ Isolatorerna är dåliga ledare på grund av att de har många valenselektroner
+ i sitt yttersta skal.
+ Maximalt ryms 8 valenselektroner.
+ I icke ledande material är elektronerna mycket hårt bundna till sitt valensskal
+ och därför svåra att flytta.
+ I fasta material är också positiva laddningar svåra att flytta, eftersom
+ de är bundna i atomkärnorna.
+ Atomerna är i sin tur bundna i en struktur som kännetecknar vart och ett
+ material.
+ 
+\end_layout
+
+\begin_layout Paragraph
+1.1.4.3 Halvledare 
+\end_layout
+
+\begin_layout Standard
+Några grundämnen har en elektrisk ledningsförmåga som ligger mellan gränsvärdena
+ för att kallas elektriska ledare eller isolatorer.
+ Dessa ämnen tillhör gruppen halvledare och har en elektrisk ledningsförmåga
+ som varierar med ämnets struktur, renhet och temperatur.
+ En ren kristall av mineralen germanium [Ge] eller av kisel [Si] bildar
+ ett kristallgitter där atomerna binds till varandra med kovalenta bindningar.
+ Ämnena delar sina fyra valenselektroner med fyra andra atomer så att det
+ bildas en full oktett med åtta elektroner i valensskalet.
+ Då valensskalet innehåller åtta elektroner är det fullt, det finns inga
+ fria elektroner och ämnet leder inte elektrisk ström.
+ Båda dessa mineraler kan därför i denna form ses som isolatorer.
+ (intrinsisk halvledare) Om några atomer av ett främmande material som till
+ exempel arsenik, antimon, indium eller gallium blandas in, (dopas in),
+ i kristallstrukturen så förändras egenskaperna och den elektriska ledningsförmå
+gan ökar tusenfalt.
+ 
+\end_layout
+
+\begin_layout Paragraph
+1.1.4.4 N-ledning 
+\end_layout
+
+\begin_layout Standard
+Man talar om N-ledande material respektive N-ledning; ”elektronledning”.
+ Germanium, kisel m.fl.
+ halvledare har fyra elektroner med ”fasta platser” i valensskalet – förutsatt
+ att materialet är helt rent.
+ Då finns det inga fria elektroner för laddningstransport.
+ För att skapa fria elektroner kan det rena materialet förorenas – dopas
+ – med atomer av till exempel arsenik [As] eller antimon [Sb].
+ Båda dessa material är 5-värdiga.
+ De har 5 elektroner i valensskalet 4 elektroner är fast bundna medan den
+ 5:e är löst bunden till atomen.
+ Den 5:e elektronen kan lossgöras från atomen med yttre kraft, till exempel
+ värme eller elektrisk spänning och då skapas en fri elektron.
+ När en spänning läggs på materialet kommer den fria elektronen att vandra
+ mot den positiva polen.
+ Materialet är N-ledande.
+ 
+\end_layout
+
+\begin_layout Paragraph
+1.1.4.5 P-ledning – ”hålledning” 
+\end_layout
+
+\begin_layout Standard
+När germanium eller kisel dopas med indium [In] eller gallium [Ga] blir
+ de P-ledande.
+ Indium och gallium är 3-värdiga – deras valensskal innehåller 3 elektroner.
+ Men för en fast bindning med germanium eller kisel saknas det en elektron
+ och det uppstår då ett ”hål” – en ”bristelektron”.
+ Hålet kan fyllas ut av en elektron från en annan atom.
+ I den atom som elektronen lämnar bildas det i sin tur ett hål osv.
+ När en spänning läggs på, kommer ”hålet” att vandra mot den negativa polen.
+ Materialet är då P-ledande.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Elektrisk spänning – enheten volt 
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.1.2 HAREC a.1.1.3 
+\end_layout
+
+\begin_layout Standard
+Bild 1.2 illustrerar ett tankeförsök med ett rör med kulor i.
+ Materialet i röret tänks motsvara atomstrukturen i en strömledare och kulorna
+ de fria elektronerna.
+ Tänker man sig ett slag mot en ände av röret så flyttar det sig av den
+ energi som tillförs.
+ På grund av obundenheten till röret följer av masströgheten kulorna inte
+ med röret, utan hamnar i dess ena ände.
+ Att kulorna samlas i ena änden av röret tänks motsvara ett elektronöverskott
+ i ena änden av en ledare och ett motsvarande underskott i den andra änden.
+ Man kallar änden med elektronöverskott för minuspol och änden med elektronunder
+skott för pluspol.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename bild_2_1-02.png
+	scale 30
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Tankeförsök med kulor i ett rör
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+att de sinsemellan har olika potential.
+ Potentialskillnaden kallas spänning.
+ 
+\end_layout
+
+\begin_layout Standard
+Likspänning innebär ett överskott av elektroner och alltid vid samma anslutnings
+pol.
+ 
+\end_layout
+
+\begin_layout Standard
+Växelspänning innebär ett överskott av elektroner, omväxlande vid den ena
+ anslutningspolen och den andra.
+ 
+\end_layout
+
+\begin_layout Standard
+Måttenheten för spänning är volt [V].
+ I formler betecknas spänning med 
+\end_layout
+
+\begin_layout Itemize
+U för effektivvärdet 
+\end_layout
+
+\begin_layout Itemize
+u för momentanvärdet (ögonblicks-) 
+\end_layout
+
+\begin_layout Itemize
+ˆu för toppvärdet (amplitud-).
+ 
+\end_layout
+
+\begin_layout Standard
+Bild 1.16 i avsnitt 1.6 illustrerar relationen mellan värdena för en sinuskurva.
+ 
+\end_layout
+
+\begin_layout Standard
+Spänningen över ändpunkterna på en strömledare är 1 volt [V], då ledaren
+ genomflyts av en likström av 1 ampere [A] under effektutvecklingen 1 watt
+ [W].
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Symboler 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Batteri.PNG
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Schemasymbol för batteri
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+När man ritar scheman för elektriska kretsar används symboler.
+ Symbolen i bild 1.3 visar ett elektriskt batteri med en enda cell.
+ 
+\end_layout
+
+\begin_layout Standard
+Förtydligande kommentarer och skrivtecknen invid symbolen förekommer.
+ Ofta refererar dessa till en komponentlista.
+ Se även kapitel 2.
+\end_layout
+
+\begin_layout Subsubsection
+Elektrisk ström – Enheten ampere 
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.1.2 HAREC a.1.1.3 
+\end_layout
+
+\begin_layout Standard
+När en sluten strömkrets innehåller en spänningskälla, kan en laddningsutjämning
+ ske genom kretsen.
+ Det innebär att fria elektroner förflyttar sig genom 7 kretsen i riktning
+ från spänningskällans minuspol till dess pluspol.
+ Vid pluspolen är det nämligen brist på negativa laddningar och naturen
+ söker alltid en utjämning.
+ Under utjämningsförloppet är spänningskällan även en strömkälla.
+ 
+\end_layout
+
+\begin_layout Standard
+I gaser och elektrolyter (elektriskt ledande vätskor och geler) samt i halvledar
+e består strömmen av joner (positiva eller negativa laddningar), i metaller
+ däremot av elektroner (negativa laddningar).
+ 
+\end_layout
+
+\begin_layout Standard
+Av tradition anses strömriktningen vara positiv i jonströmmens riktning
+ – den så kallade tekniska strömriktningen – medan elektronströmmens riktning
+ är den motsatta – den så kallade fysikaliska strömriktningen.
+ 
+\end_layout
+
+\begin_layout Standard
+Måttenheten för ström är ampere A [20].
+ I formler betecknas ström med: 
+\end_layout
+
+\begin_layout Itemize
+I för effektivvärdet 
+\end_layout
+
+\begin_layout Itemize
+i för momentanvärdet (ögonblicks-) 
+\end_layout
+
+\begin_layout Itemize
+ˆi för toppvärdet (amplitud-) 
+\end_layout
+
+\begin_layout Standard
+Strömmen är 1 A när 6,25 · 1018 elektroner per sekund flyter genom ett givet
+ ledartvärsnitt, vilket motsvarar laddningen 1 coulomb.
+\end_layout
+
+\begin_layout Subsubsection
+Strömkrets 
+\end_layout
+
+\begin_layout Standard
+Bild 1.4 visar potential och spänning i en strömkrets.
+ 
+\end_layout
+
+\begin_layout Standard
+En elektrisk strömkrets består av en eller flera energikällor och energiförbruka
+re.
+ Källor kan vara batterier, nätaggregat etc.
+ Förbrukare kan vara lampor, ledningar etc.
+ Varje energiförbrukare har en resistans och de elektriska laddningarna
+ ”köar” före förbrukaren, strax efter förbrukaren finns ingen kö.
+ Det uppstår en skillnad i laddningsmängd (en potentialskillnad) mellan
+ varje punkt i en strömkrets, när det flyter ström.
+ Man talar om spänningsfall.
+\end_layout
+
+\begin_layout Subsubsection
+Strömförlopp
+\end_layout
+
+\begin_layout Standard
+Likströms- och växelströmsförloppen kan vara sammansatta av ett huvudförlopp
+ och underordnade förlopp.
+ 
+\end_layout
+
+\begin_layout Standard
+Likström kan ha konstant styrka eller den kan variera enligt något förlopp,
+ men växlar aldrig riktning.
+ 
+\end_layout
+
+\begin_layout Standard
+Växelström kan variera enligt något visst förlopp, till exempel sinusvåg,
+ fyrkantsvåg, och växlar ständigt riktning.
+\end_layout
+
+\begin_layout Subsubsection
+Resistans– Enheten ohm 
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.1.2 HAREC a.1.1.3 
+\end_layout
+
+\begin_layout Standard
+När fria elektroner tvingas fram genom atomstrukturen i en ledare, till
+ exempel glödtråden i en lampa, så avgår energi i form av värme.
+ Detta fenomen kallas för resistans (av latinets resistere som betyder att
+ motstå).
+ Resistansen och därmed förlusterna i en strömkrets fördelas i förhållande
+ till de ingående materialen och deras dimensionering.
+ 
+\end_layout
+
+\begin_layout Standard
+Resistans uttrycks i enheten 
+\shape italic
+ohm
+\shape default
+ [20] och betecknas med den grekiska bokstaven omega (Ω).
+ 
+\end_layout
+
+\begin_layout Standard
+I formler betecknas resistansen i en elektrisk krets eller en del av den
+ med 
+\shape italic
+R
+\shape default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Resistansen i en resistor är 1 [Ω], när en spänning av 1 [V] driver en ström
+ av 1 [A] genom den resistorn.
+\end_layout
+
+\begin_layout Subsubsection
+Ohms lag 
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.1.4 
+\end_layout
+
+\begin_layout Standard
+Ohms lag beskriver sambandet mellan grundbegreppen ström I [ampere], spänning
+ U [volt] och resistans R [ohm].
+ Sambandet gäller både för likspänning och för effektivvärdet av växelspänning
+ och växelström.
+ I en ledare med resistansen R är strömstyrkan I genom resistansen proportionell
+ mot den pålagda spänningen U.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+U=I\text{·}R\quad I=\frac{U}{R}\quad R=\frac{U}{I}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Kirchhoffs lagar 
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.1.5 
+\end_layout
+
+\begin_layout Standard
+Den tyske fysikern G R Kirchhoff (1824–1887) formulerade sina välkända lagar
+ först 1845 och sedan 1847.
+ 
+\end_layout
+
+\begin_layout Standard
+Kirchhoffs strömlag: 
+\shape italic
+Den algebraiska summan av alla strömmar, som flyter till eller från varje
+ punkt i en elektrisk krets, är lika med noll
+\shape default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+I1 + I2 + I3 + · · · + In = 0 
+\begin_inset Formula 
+\[
+I1+I2+I3+\cdots+In=0
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Kirchhoffs spänningslag: 
+\shape italic
+I varje sluten strömkrets är den algebraiska summan av alla spänningskällor
+ lika med det totala spänningsfallet i alla resistorer
+\shape default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Uttryckt på ett annat sätt är algebraiska summan av spänningarna i en strömkrets
+ lika med noll.
+\end_layout
+
+\begin_layout Subsubsection
+Elektrisk effekt – enheten watt 
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.1.6 HAREC a.1.1.7 
+\end_layout
+
+\begin_layout Standard
+När en ström flyter genom en resistans utvecklas värme.
+ Värme är en form av effekt, som är högre ju starkare strömmen och högre
+ spänningen är.
+ 
+\end_layout
+
+\begin_layout Standard
+Måttenheten 
+\shape italic
+voltampere
+\shape default
+ [VA] för elektrisk effekt härleds ur produkten av volt [V] och ampere [A].
+ 
+\end_layout
+
+\begin_layout Standard
+För effekt som alstras av likström används enheten 
+\shape italic
+watt
+\shape default
+ [W] [20] i stället för 
+\shape italic
+voltampere
+\shape default
+ [VA].
+ Vid sidan om grundenheten 1 W används delar och multipler av denna.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+1volt[U]\text{·}1ampere[i]=1watt[P]
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Effektformeln 
+\begin_inset Formula $P=U\text{·}I$
+\end_inset
+
+ gäller i första hand för likström men även för växelström om belastningen
+ är resistiv och ström och spänning inte är fasförskjutna.
+ Formeln kan för att underlätta beräkningar skrivas om på flera sätt.
+\end_layout
+
+\begin_layout Standard
+Vi börjar med att lösa ut I ur Ohms lag 
+\begin_inset Formula $U=R\text{·}I$
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+I=\frac{U}{R}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename bild_2_1-03.png
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\shape italic
+Potential och spänning i en strömkrets
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Vi sätter sedan in uttrycket för I i effektformeln
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+P=U\text{·}I\Rightarrow P=\frac{U\text{·}U}{R}\Rightarrow P=\frac{U^{2}}{R}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+På motsvarande sätt kan vi ersätta U med R · I:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+P=U\cdot I\Rightarrow P=R\cdot I\cdot I\Rightarrow P=R\cdot I^{2}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Med hjälp av dessa formler kan effekten beräknas ur resistans- och strömvärdena
+ respektive ur resistansoch spänningsvärdena.
+ För övriga formler se formelsnurran bild 1.5
+\end_layout
+
+\begin_layout Subsubsection
+Elektrisk arbete – enheten joule
+\end_layout
+
+\begin_layout Standard
+Energi finns i olika former, alltid och överallt.
+ Energi kan varken skapas eller förstöras, bara omvandlas från en form till
+ en annan.
+ Formen kan vara mekanisk, kemisk, elektrisk etc.
+ 
+\end_layout
+
+\begin_layout Standard
+Arbete är omvandlingsprocessen från en energiform till en annan.
+ 
+\end_layout
+
+\begin_layout Standard
+Arbetsmängden i alla energiformer kan mätas med samma enhet joule [J] [20]
+ och anges med symbolen W för Work.
+\end_layout
+
+\begin_layout Standard
+1 joule motsvarar det arbete som utvecklas när ett föremål förflyttas 1
+ meter med kraften
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+W=l\cdot F\:[J]=[Nm]
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Arbetet W [J] är mer ju längre tid t [s] en viss effekt P [W] utvecklas.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+W=t\cdot P\:[J]=[sW]
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Joules lag
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.1.8
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+Arbete=Effekt\cdot tid\;[W]=[P]\cdot[s]
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Eftersom effekten uttrycks som P = U · I kan det elektriska arbetet uttryckas
+ som W = U · I · t, vilket också är Joules lag.
+ 
+\end_layout
+
+\begin_layout Standard
+Om grundenheterna för volt [U], ampere [I] och sekund [s] sätts in i formeln
+ fås en måttenhet, uttryckt som voltamperesekunder [VAs] eller wattsekunder
+ [Ws] eller joule [J].
+ 
+\end_layout
+
+\begin_layout Standard
+Måttenheten för elektriskt arbete är 1 joule per sekund, som vanligen kallas
+ 1wattsekund 1 [Ws].
+ Vid sidan av grundenheten används multipler av denna.
+\end_layout
+
+\begin_layout Standard
+1 kilowattsekund= 1 kWs = 1000 Ws = 1,0 · 103 Ws 
+\end_layout
+
+\begin_layout Standard
+1 wattimme = 1 Wh = 3600 Ws = 3,6 · 103 Ws 
+\end_layout
+
+\begin_layout Standard
+1 kilowattimme = 1 kWh= 1000 Wh= 3,6 · 106 Ws
+\end_layout
+
+\begin_layout Subsubsection
+Formelsnurran 
+\end_layout
+
+\begin_layout Standard
+Så här finner man rätt formel i formelsnurran (bild 1.5): Välj ett segment
+ med önskad storhet I, U, R eller P som det första ledet i formeln.
+ Inom valt segment finns tre alternativ för det andra ledet i formeln.
+ Välj det alternativ som innehåller två kända storheter.
+\end_layout
+
+\begin_layout Subsubsection
+Ohms lag
+\end_layout
+
+\begin_layout Standard
+R söks, U och I är kända; Om U = 230V och I = 2A, så blir
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+R=\frac{U}{I}=\frac{230}{2}=115\varOmega
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename bild_2_1-04.png
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\shape italic
+\begin_inset Quotes eld
+\end_inset
+
+Snurra
+\begin_inset Quotes erd
+\end_inset
+
+ för Ohms och Joules lagar
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Joules lag P söks, U och I är kända.
+ Om U = 230V och I = 2A, så blir
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+P=U\cdot I=230\cdot2=460W
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Amperetimmar (Ah) och batterikapacitet 
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.1.9 
+\end_layout
+
+\begin_layout Standard
+Det finns flera sätt att lagra energi.
+ Ett sätt är att göra det i kemisk form i speciella celler, där man kan
+ ta ut energin i elektrisk form.
+ 
+\end_layout
+
+\begin_layout Standard
+Det finns celler som kan laddas upp och laddas ur upprepade gånger.
+ Sådana celler kallas vanligtvis ackumulator, sekundärbatteri eller sekundärcell.
+ 
+\end_layout
+
+\begin_layout Standard
+Det finns också sådana celler som endast kan användas en gång och som normalt
+ inte kan laddas upp igen.
+ Sådana celler kallas vanligtvis primärcell eller primärbatteri.
+ 
+\end_layout
+
+\begin_layout Standard
+Energi i form av en elektrisk laddning kan även lagras i en kondensator.
+ Energin kan då lagras och tas ut utan omvandling.
+ 
+\end_layout
+
+\begin_layout Standard
+Kapaciteten i en elektrisk cell uttrycks som produkten av den ström A som
+ cellen avger och under den tid [s, h] detta kan ske.
+ Uttryckt med tidsenheten timmar blir då kapaciteten Ah.
+ 
+\end_layout
+
+\begin_layout Standard
+Den kapacitet som anges i en cells produktdata är den nominella.
+ Denna kapacitet gäller endast under vissa normerade förhållanden såsom
+ celltemperatur, strömstyrka och urladdningstid.
+ 
+\end_layout
+
+\begin_layout Standard
+Den praktiska kapaciteten i en cell begränsas av användningen.
+ En elektrisk cell avger sålunda regelmässigt mindre energimängd, ju högre
+ urladdningsströmmen är.
+ Kapaciteten i en elektrisk cell skiljer sig i det avseendet från den i
+ till exempel en oljetank, där man kan ta ut lika mycket energimängd som
+ man häller i och oberoende av hur fort man gör det.
+ 
+\end_layout
+
+\begin_layout Standard
+Elektriska celler kan samlas till batterier, varvid cellerna oftast seriekopplas.
+ Batteriets polspänning är då summan av cellernas polspänningar.
+ 
+\end_layout
+
+\begin_layout Standard
+Hur stort arbete ett batteri avger, beror såväl på hela batteriets polspänning
+ som på de enskilda cellernas kapacitet.
+ Exempel: Ett batteri med polspänningen 12V och cellkapaciteten 100 Ah kan
+ nominellt avge P = U · I = 12 · 100 = 1200VAh = 1,2 kWh.
+ 
+\end_layout
+
+\begin_layout Standard
+Hur länge batteriet ”räcker” per laddning beror som sagt bland annat på
+ vilken strömstyrka man tar ut.
+ Tar man ut 1A ur 100 Ah-cellen här ovan, så blir urladdningstiden nominellt
+ t = 100 Ah/1A = 100 h.
+\end_layout
+
+\begin_layout Subsection
+Elektriska kraftkällor 
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.2
+\end_layout
+
+\begin_layout Subsubsection
+Elektromotorisk kraft – EMK 
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.2.1
+\end_layout
+
+\begin_layout Standard
+Det som driver ström genom en elektrisk strömkrets är kretsens elektromotoriska
+ kraft (EMK).
+ Måttenheten för EMK är 
+\shape italic
+volt
+\shape default
+ [V].
+ EMK är summan av de potentialökningar som uppstår i kretsen.
+ De vanligaste slagen av EMK är:
+\end_layout
+
+\begin_layout Itemize
+elektromagnetisk EMK som uppkommer i strömledare i magnetfält som varierar
+ (t.ex.
+ lindningarna i en roterande generator) 
+\end_layout
+
+\begin_layout Itemize
+elektrokemisk EMK som uppkommer i beröringsytan mellan en metallisk ledare
+ och en elektrolyt (t.ex.
+ battericell) 
+\end_layout
+
+\begin_layout Itemize
+elektrostatisk EMK, till exempel i kondensatorer 
+\end_layout
+
+\begin_layout Itemize
+kontakt-EMK i beröringsytan mellan metaller med olika termoelektrisk potential
+ eller mellan metall och luftens syre (t.ex.
+ korrosion mellan metaller) 
+\end_layout
+
+\begin_layout Itemize
+termo-EMK som uppkommer i en strömkrets där två sammanlödda metaller med
+ olika temperatur ingår (t.ex.
+ termokors för strömmätning).
+\end_layout
+
+\begin_layout Subsubsection
+Polspänning 
+\end_layout
+
+\begin_layout Standard
+Den spänning, som kan mätas mellan kretsens anslutningspoler då kretsen
+ är öppen.
+\end_layout
+
+\begin_layout Subsubsection
+Inre resistans
+\end_layout
+
+\begin_layout Standard
+I likhet med att komponenterna i en strömkrets har en viss resistans, har
+ också en strömkälla en inre resistans.
+ Den inre resistansen i en strömkälla ingår i kretsens totala resistans.
+\end_layout
+
+\begin_layout Subsubsection
+Kortslutningsström 
+\end_layout
+
+\begin_layout Standard
+Om man på kortaste väg förbinder strömkällans anslutningspoler blir kretsen
+ totala resistans lika med källans inre resistans.
+ 
+\end_layout
+
+\begin_layout Standard
+Den kortslutningsström som då uppstår begränsas enbart av strömkällans polspänni
+ng och inre resistans.
+ 
+\end_layout
+
+\begin_layout Standard
+Eftersom den inre resistansen oftast är mycket liten blir kortslutningsströmmen
+ motsvarande hög.
+\end_layout
+
+\begin_layout Subsubsection
+Serie- och parallellkopplade kraftkällor 
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.2.2
+\end_layout
+
+\begin_layout Paragraph
+Seriekopplade kraftkällor 
+\end_layout
+
+\begin_layout Standard
+För att uppnå en högre total spänning (EMK) kan flera kraftkällor (delspänningar
+) kopplas i en slinga efter varandra.
+ Detta kallas seriekoppling.
+ 
+\end_layout
+
+\begin_layout Standard
+Seriekopplade delspänningar verkar med eller mot varandra, beroende på deras
+ inbördes polariteter.
+ 
+\end_layout
+
+\begin_layout Standard
+Den totala spänningen över kopplingen är summan av de ingående delspänningarna,
+ med hänsyn taget till deras polariteter.
+\end_layout
+
+\begin_layout Paragraph
+Parallellkopplade kraftkällor 
+\end_layout
+
+\begin_layout Standard
+För att erhålla högre ström, kan flera svagare kraftkällor parallellkopplas.
+ Vid parallellkoppling erhålls däremot inte högre spänning.
+ 
+\end_layout
+
+\begin_layout Standard
+Vid parallellkoppling av kraftkällor måste deras polaritet vara lika.
+ 
+\end_layout
+
+\begin_layout Standard
+För minsta utjämningsström mellan parallellkopplade kraftkällor bör även
+ deras polspänning och inre resistans vara så lika som möjligt.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement o
+overhang 0col%
+width "50col%"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename warning.PNG
+	rotateOrigin leftTop
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Parallellkoppling av kraftkällor är ofta direkt olämpligt eftersom det i
+ praktiken är svårt att få en balans, varvid enbart den ena källan levererar.
+ Det finns kraftaggregat utformade för att parallellkopplas.
+\end_layout
+
+\begin_layout Subsection
+Elektriskt fält 
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.3
+\end_layout
+
+\begin_layout Subsubsection
+Potential 
+\end_layout
+
+\begin_layout Standard
+Potentialskillnaden – spänningen – mellan olika laddade kroppar skapar krafter
+ mellan varandra samt mellan dem och deras omgivning.
+ Detta fenomen kallas elektriskt kraftfält och är orsaken till att elektriskt
+ laddade kroppar kan komma i rörelse.
+\end_layout
+
+\begin_layout Subsubsection
+Elektrisk laddning 
+\end_layout
+
+\begin_layout Standard
+Elektriska laddningar är grunden för elektricitetsläran.
+ Varje proton i atomkärnan är bärare av en positiv laddning.
+ Neutronerna i atomkärnan är elektriskt neutrala.
+ Antalet protoner i kärnan bestämmer därför kärnans totala positiva laddning,
+ kallat för kärnladdningstalet.
+ Elektronerna som kretsar omkring atomkärnan är bärare av var sin negativ
+ laddning.
+ 
+\end_layout
+
+\begin_layout Standard
+Elementarladdningen [e] är den laddning som finns i en elektron och har
+ länge ansetts vara den minsta möjliga laddningen.
+ Nutida elektronfysik konstaterar ännu mindre enheter, men det går vi inte
+ in på här.
+ 
+\end_layout
+
+\begin_layout Standard
+Antalet protoner och elektroner i en atom är lika och elektronernas negativa
+ laddning blir då lika stor som protonernas positiva laddning.
+ När laddningar med olika polaritet är lika stora väger de ut varandra och
+ blir elektriskt neutrala till sin omgivning.
+ 
+\end_layout
+
+\begin_layout Standard
+Måttenheten för elektrisk laddning är coulomb [C].
+ Laddningsmängden 1 coulomb motsvarar 6,25 triljoner (6,25 · 1018) elementarladd
+ningar.
+ Sambandet mellan laddning och ström är:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+Q=I\cdot t
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Laddning [Q] är ström [I] under tiden [t]:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+1C=1A\cdot1s=1\;amperesekund\;[1As]
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+1\;coulomb=1\;ampere\cdot1\;sekund
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename bild_2_1-05.png
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\shape italic
+Elektriska kraftfält
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Kraftfält omkring elektriska laddningar 
+\end_layout
+
+\begin_layout Standard
+Mellan elektriska laddningar bildas krafter (bild 1.6).
+\end_layout
+
+\begin_layout Itemize
+Varje laddning är omgiven av ett elektriskt kraftfält.
+\end_layout
+
+\begin_layout Itemize
+Mellan positiva (+) elektriska laddningar och (–) negativa laddningar bildas
+ krafter.
+\end_layout
+
+\begin_layout Itemize
+Fältkrafternas styrka och riktning symboliseras som linjer mellan positiva
+ och negativa laddningar, där styrkan är densamma utmed respektive linje.
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Kroppar med olika slags laddningar dras till varandra 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Kroppar med lika slags laddningar stöter bort varandra 
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+Oladdade kroppar påverkas inte och ger ingen kraftverkan.
+\end_layout
+
+\begin_layout Subsubsection
+Elektrisk fältstyrka 
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.3.1 HAREC a.1.3.2
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename bild_2_1-06.png
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\shape italic
+Elektrisk fältstyrka
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I en trådformad ledare, som det flyter likström igenom, fördelas strömmen
+ lika över tvärsnittet.
+ Om ledaren i stället är ett tunt plan, så blir strömfördelningen annorlunda.
+ Bilden visar ett plan med två elektroder, som anslutits till en spänningskälla.
+ Utmed sträckan mellan elektroderna fördelas strömmen över planet så som
+ strömlinjerna på bilden.
+ Fördelningen beror på elektrodernas utformning och polaritet.
+ Strömtätheten är inte lika över hela planet, eftersom planet kan ses som
+ många parallellkopplade resistorer vars resistanser ökar med tilltagande
+ strömlinjelängd.
+\end_layout
+
+\begin_layout Standard
+Strömtätheten i planet är större där resistansen mellan elektroderna är
+ liten.
+ Närmast elektroderna där alla strömlinjer samlas är strömtätheten extremt
+ hög.
+ Där strömtätheten är som störst finns den största potentialskillnaden (spänning
+en) per längdenhet strömlinje.
+ Man kan mäta potentialerna i planet.
+ Spänningen mellan två punkter utmed en tänkt strömlinje är därvid proportionell
+ mot linjens längd mellan punkterna.
+ Halva spänningen finner man mitt emellan punkterna.
+\end_layout
+
+\begin_layout Standard
+Elektriska fält är upplagrad energi.
+ Fältstyrkan kan bli så hög, att det blir en urladdning mellan polerna.
+ Koronaurladdning från ändarna av en antenn är ett annat tecken på hög fältstyrk
+a.
+ För att försvåra urladdning kan man öka elektrodytan, till exempel göra
+ den klotformad.
+ Omvänt kan man medverka till urladdning genom att minska elektrodytan.
+ Ett exempel är åskledarens spets.
+\end_layout
+
+\begin_layout Standard
+I bild 1.7 U = f(l) visas spänningarna utmed ”mittströmslinjen” igenom plus-
+ och minuspolerna.
+ Kurvutseendet är typiskt även för omkringliggande linjer, oavsett längd.
+\end_layout
+
+\begin_layout Standard
+Bilden framställer en ledare som ett idealt plan, medan den i praktiken
+ är en volym.
+ För att efterlikna en volym föreställer vi oss att bilden roterar omkring
+ mittströmslinjen, med fältlinjerna oförändrade.
+ Även om resistansen i den rotationskropp som uppstår är så hög att ingen
+ ström flyter, så är spänningsbilden fortfarande densamma.
+\end_layout
+
+\begin_layout Standard
+Spänningsbilden gäller även för isolerande fasta material, gaser och vakuum.
+ Det finns alltså spänning mellan olika punkter även i ”friska luften”.
+ Denna spänningfältstyrka- kan mätas med särskilda instrument, så kallade
+ fältstyrkemätare.
+ 
+\end_layout
+
+\begin_layout Standard
+Av brantheten på spänningskurvan i bilden framgår vilken delspänningen är
+ per dellängd av en spänningslinje.
+ Kvoten av delspänning och avståndet mellan mätpunkterna kallar man för
+ elektrisk fältstyrka.
+ 
+\end_layout
+
+\begin_layout Standard
+I formler betecknas elektrisk fältstyrka med bokstaven E.
+ Elektrisk fältstyrka mäts i volt per meter.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+E=\frac{\varDelta U}{\varDelta l}\quad\frac{[volt]}{[meter]}
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Skärmning av elektriska fält 
+\end_layout
+
+\begin_layout Standard
+HAREC a.1.3.3 
+\end_layout
+
+\begin_layout Standard
+I grunden finns det två slags fält, det elektriska och det magnetiska.
+ Dessutom finns det även elektromagnetiska fält, som är sammansatt av båda
+ dessa.
+ Fält kan vara statiska eller dynamiska, varav här avses dynamiska.
+ Ett dynamiskt elektriskt fält genererar ett magnetiskt fält.
+ Omvänt generar ett dynamiskt magnetiskt fält ett dynamiskt elektriskt fält.
+ Denna växelverkan gör att fälten kan hållas igång av varandra med tillskott
+ av yttre energi.
+ 
+\end_layout
+
+\begin_layout Standard
+Fält i rörelse alstrar elektromagnetisk strålning, som påverkar omgivningen.
+ När påverkan inte är önskvärd måste fältet skärmas av.
+ Ett sätt att skärma av ett elektriskt fält är en metallisk kapsling som
+ anslutits till apparatens jordreferens.
+ Skärmen behöver inte vara tät, men utförd så att all magnetiskt inducerad
+ ström i den bryts.
+ (Jfr 1.4.9)
+\end_layout
+
+\begin_layout Standard
+### ###
+\end_layout
+
+\end_body
+\end_document
